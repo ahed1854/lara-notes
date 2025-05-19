@@ -1,0 +1,4 @@
+<ifModule mod_rewrite.c>
+    RewriteEngine on RewriteRule ^(.*)$
+    /laravel-notes-archive/public/$1 [L]
+</ifModule>
