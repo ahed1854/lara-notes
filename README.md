@@ -76,7 +76,7 @@ The application will be available at `http://localhost:8000`.
 1. Register a new account or login with existing credentials
 2. Create notes from the Notes page
 3. Set reminders from the Reminders page
-4. Use the color picker to categorize notes
+4. Use colored labels for better categorizing
 5. Pin important notes to keep them at the top
 6. Access deleted items in the trash
 7. View upcoming reminders on the dashboard
