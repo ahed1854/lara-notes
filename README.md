@@ -7,10 +7,10 @@ A modern note-taking and reminder application built with Laravel, featuring a cl
 - User authentication (signup and login)
 - Create, edit, and delete notes
 - Pin important notes
-- Color-code notes
+- Colored labels system to manage notes and reminders
 - Set reminders with dates and times
 - Mark reminders as complete
-- Trash feature for both notes and reminders
+- Simple and easy to use Trash system
 - Responsive design for all screen sizes
 
 ## Requirements
