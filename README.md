@@ -1,4 +1,4 @@
-# Laravel Notes - A Google Keep Clone
+# Lara Notes - A Simple Elegant way to manage notes and reminders seemlesly
 
 A modern note-taking and reminder application built with Laravel, featuring a clean and responsive design.
 
